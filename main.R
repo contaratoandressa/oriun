@@ -6,7 +6,7 @@ rm(list=ls())
 install.load::install_load("PortfolioAnalytics", "quantmod", "nnet", "caret", "zoo", "PerformanceAnalytics", "plotly", "dplyr","readxl","writexl","tseries", "moments", "forecast", "polynom", "rugarch", "xts","SkewHyperbolic", "rgl")
 
 # source
-path = "/home/andressa/dev/workspace/andromeda/TCCPos/7-Mini-Projeto3/"
+path = "/home/andressa/dev/workspace/oriun/functions_aux/"
 setwd(path)
 
 source("HGbib_atz2.R")
